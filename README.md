@@ -1,0 +1,2 @@
+# curiosity--mission---project-chrysalis---phase-1--foundry-
+Develop and deploy a minimal, self-hosted prototype of the Autonomy Engine's economic loop. A simple Python daemon that: 1) Scans for micro-arbitrage opportunities across CEX/DEX using our own local models, 2) Executes via private API, 3) Logs profit, and 4) Automatically reallocates a percentage to a "Hardware Treasury" wallet. The goal is not pro
